@@ -1,6 +1,6 @@
 # HV5160
 
-![HV5160 with heatsink](assets/HV5160 with heatsink.png)
+![HV5160 with heatsink](assets/HV5160_with_heatsink.png)
 
 ## 1. Introduction
 
@@ -47,7 +47,7 @@ HV5160 is specially designed for high-voltage drive requirements and can work in
 
 ## 5. Hardware Guide
 
-![HV5160 Pin Functions](assets/HV5160 Pin Functions.png)
+![HV5160 Pin Functions](assets/HV5160_Pin_Functions.png)
 
 ### 5.1 Pin Functions
 
@@ -84,7 +84,7 @@ HV5160 is specially designed for high-voltage drive requirements and can work in
 
 #### 5.2.1 Solder Jumper
 
-![HV5160 solder jumper config](assets/HV5160 solder jumper config.png)
+![HV5160_solder_jumper_config](assets/HV5160_solder_jumper_config.png)
 
 | JP1<br/>SPI_MODE<br/>Pin22 <br/>Integrated pull down resistor. | JP2 <br/>SD_MODE<br/>Pin21 | Mode                                                         |
 | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ |
@@ -95,7 +95,7 @@ HV5160 is specially designed for high-voltage drive requirements and can work in
 
 #### 5.2.2 USE SPI mode on FYSETC Boards
 
-![HV5160 on Spider](assets/HV5160 on Spider.png)
+![HV5160 on Spider](assets/HV5160_on_Spider.png)
 
 ## 6. Part List
 
